@@ -1,0 +1,64 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "In which year was Python first released?",
+        "answer": "1991",
+        "mark": 1
+      },
+      {
+        "id": 2,
+        "question": "Who created the Python programming language?",
+        "answer": "guido van rossum",
+        "mark": 1
+      },
+      {
+        "id": 3,
+        "question": "What keyword is used to define a function in Python?",
+        "answer": "def",
+        "mark": 1
+      },
+      {
+        "id": 4,
+        "question": "What symbol is used to start a comment in Python?",
+        "answer": "#",
+        "mark": 1
+      },
+      {
+        "id": 5,
+        "question": "Which data type is used to store a list of items in Python?",
+        "answer": "list",
+        "mark": 1
+      },
+      {
+        "id": 6,
+        "question": "What function is used to print output in Python?",
+        "answer": "print",
+        "mark": 1
+      },
+      {
+        "id": 7,
+        "question": "Which keyword is used for a loop that repeats while a condition is true?",
+        "answer": "while",
+        "mark": 1
+      },
+      {
+        "id": 8,
+        "question": "What keyword is used to import modules in Python?",
+        "answer": "import",
+        "mark": 1
+      },
+      {
+        "id": 9,
+        "question": "What data type is returned by the input() function?",
+        "answer": "string",
+        "mark": 1
+      },
+      {
+        "id": 10,
+        "question": "Which Python library is used to generate random numbers?",
+        "answer": "random",
+        "mark": 1
+      }
+    ]
+  }
